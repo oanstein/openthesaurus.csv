@@ -1,5 +1,6 @@
 # openthesaurus.csv
 Aufbereiteter Datensatz von deutschen Synonymen (CSV-Format). 
+Zusätze, wie (ugs.), gelöscht; teilweise Satzzeichen gelöscht; Klammern, 'null', etc. entsprechend bearbeitet oder gelöscht.
 
 #### Quelle: www.openthesaurus.de
 #### Github: https://github.com/danielnaber/openthesaurus 
