@@ -1,4 +1,4 @@
-# openthesaurus_raw
+# openthesaurus.csv
 Aufbereiteter Datensatz von deutschen Synonymen (CSV-Format). 
 
 #### Quelle: www.openthesaurus.de
